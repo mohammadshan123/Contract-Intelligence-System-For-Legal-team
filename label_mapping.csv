@@ -1,4 +1,4 @@
-id,clause_type
+1id,clause_type
 0,Agreement Date
 1,Anti-Assignment
 2,Audit Rights
@@ -14,3 +14,4 @@ id,clause_type
 12,Post-Termination Services
 13,Renewal Term
 14,Termination For Convenience
+
